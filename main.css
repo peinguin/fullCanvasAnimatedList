@@ -1,0 +1,16 @@
+#wrapper{
+	position:absolute;
+	left:10%;
+	top:10%;
+	width: 80%;
+	height: 80%;
+	overflow: hidden;
+}
+#main{
+	-webkit-transition: all 250ms ease-out 0.5s;
+    -moz-transition:    all 250ms ease-out 0.5s;
+    -o-transition:      all 250ms ease-out 0.5s;
+    transition:         all 250ms ease-out 0.5s;
+    position: relative;
+    top: 0px;
+}
